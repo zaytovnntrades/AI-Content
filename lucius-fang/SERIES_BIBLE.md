@@ -209,3 +209,9 @@ as Clip C's `start_image` to fix the location.
 
 **Hidden lesson (for captions or the description):** *Never drink unfiltered city water. Rain + sheet +
 sand-charcoal-cloth filter is the oldest off-grid trick there is. Real survivalists still boil it after.*
+
+### Episode 1.2 — "Water First" (in progress)
+| Clip | Job ID |
+|---|---|
+| D — Think shot (raindrop + aerial, teaser) | `b938ffc5-19b2-4c52-99cd-2b95d9430056` |
+| A, B, C | not yet generated (45 credits needed) |
