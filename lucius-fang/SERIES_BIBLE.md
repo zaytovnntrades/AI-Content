@@ -161,3 +161,51 @@ Pass these job IDs as `image_references` on every Seedance clip to keep the look
 | B — Struggle (empty city) | `0754b941-0791-4fc3-8537-9643944d4343` |
 | C — Lesson (wristband glows) | `ecccfc0b-2655-4356-a4a8-825d7d53390c` |
 | D — Think shot (crane reveal) | `8ca0662c-2e8a-4cf3-a958-6b92dde9241e` |
+
+---
+
+## 11. EPISODE 1.2 — "Water First" · ready-to-generate shot prompts
+*Day 3 alone. The taps are dry, his bottle is empty. Lesson: water comes before everything,
+and the sky is a free source if you know how to catch and clean it.*
+
+**Settings for every clip:** `seedance_2_0` · mode `fast` · `480p` · `15 s` · `16:9` · `generate_audio: true`
+· `image_references` = Lucius sheet `75b6d589-a93a-4150-ac58-3da65213bc77`. Clip D also uses Byte's sheet as
+a cameo tease. Submit the clips **one at a time**: batch submits hit a false "out of credits" error.
+
+**Optional, 0.25 credits:** first make a rooftop keyframe image (prompt in Clip C) and use it
+as Clip C's `start_image` to fix the location.
+
+**Clip A: HOOK (0–15 s)** · genre `drama`
+> Stylized 3D animated film, cyberpunk digital aesthetic, magenta and cyan rim light, volumetric fog.
+> Close-up of a rusty kitchen tap in the tiny abandoned apartment: Lucius, six years old (messy black hair
+> with one electric-cyan streak, amber eyes, oversized charcoal hoodie, cracked glowing cyan wristband),
+> turns it and only a dry hiss and one last drop come out. He shakes an empty plastic bottle and licks his
+> cracked lips. His wristband hologram flickers a red "DAY 3" style icon (symbol only, no readable text).
+> Slow push-in on the single drop falling. Sound: dry pipe groan, ticking silence, heartbeat.
+
+**Clip B: STRUGGLE (15–30 s)** · genre `drama`
+> Stylized 3D animated film, cyberpunk. Lucius searches the dead city for water: he pulls open an
+> abandoned convenience store cooler (empty, shattered bottles), kneels by a neon-lit canal and reaches
+> toward water glowing a toxic green with oily rainbow film, then stops himself, remembering, and pulls his
+> hand back. Handheld tracking shot, flickering broken signs, heat haze. Frustration, then a crack of
+> thunder makes him look up. Sound: glass crunch, buzzing neon, distant thunder.
+
+**Clip C: LESSON (30–45 s)** · genre `drama`
+> Stylized 3D animated film, cyberpunk. Rooftop of a skyscraper at dusk under heavy magenta storm clouds.
+> Lucius drags a big plastic sheet and wedges it into a funnel over a bucket, layers a cut-open bottle with
+> sand, charcoal from a burnt sign, and a T-shirt cloth into a simple filter. Rain begins to pour; water
+> runs down the sheet, through the filter, and drips clear into the bucket. He holds a cup up to the
+> lightning-lit sky: crystal clear. Low-angle hero shot, rain sparkling with neon reflections.
+> Sound: rising rain, filtered trickle, triumphant synth swell.
+
+**Clip D: THINK SHOT (45–60 s)** · genre `epic`
+> Stylized 3D animated film, cyberpunk, cinematic contemplative shot. Extreme slow-motion macro of a single
+> raindrop falling in front of Lucius' amber eye, the whole neon city reflected inside the drop. Rack focus
+> to him drinking from the cup on the rooftop, eyes closed. Slow pull-back and rise into a wide aerial: the
+> rain-soaked megacity glowing, rivers of water running through empty streets. In the corner of frame, a
+> broken drone with a faint blue eye-light lies half-buried in a gutter (tease for Episode 5).
+> Near silence, soft rain, deep synth note. A soft child's voice narrates:
+> "Every city ever built began with one question: where's the water?"
+
+**Hidden lesson (for captions or the description):** *Never drink unfiltered city water. Rain + sheet +
+sand-charcoal-cloth filter is the oldest off-grid trick there is. Real survivalists still boil it after.*
