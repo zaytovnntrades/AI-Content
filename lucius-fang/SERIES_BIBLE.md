@@ -217,3 +217,119 @@ sand-charcoal-cloth filter is the oldest off-grid trick there is. Real survivali
 | A — Hook (dry tap) | `826ad54b-d9d1-4bb8-a5ef-4ec8c4de8c64` |
 | B — Struggle (toxic canal, thunder) | `dbee07b0-5c3e-4fdb-a594-c162ce1d1ec2` |
 | C — Lesson (rooftop rain filter) | not yet generated (15 credits needed) |
+
+---
+
+## 12. Ready-to-generate scripts: Episodes 1.3 – 1.5
+**Shared settings for every clip:** `seedance_2_0` · mode `fast` · `480p` · `15 s` · `16:9` · `generate_audio: true`
+· `image_references` always include the Lucius sheet `75b6d589-a93a-4150-ac58-3da65213bc77`.
+Submit **one clip per call**. If Higgsfield answers with a preset suggestion, resubmit with `declined_preset_id`.
+**Style prefix** (start every prompt with it): *Stylized 3D animated film, cyberpunk digital aesthetic, magenta
+and cyan rim light, volumetric fog, anamorphic lens.*
+**Lucius tag** (add wherever he appears): *six-year-old Lucius (messy black hair with one electric-cyan streak,
+amber eyes, oversized charcoal hoodie, cracked glowing cyan wristband)*
+
+### EPISODE 1.3 — "Fire Without Power"
+*Week 2. The first cold night. Lesson: fire is humanity's oldest technology, and you can make it from what others threw away.*
+
+**Clip A: HOOK** · genre `drama` · extra ref: apartment `650a4b64-4617-40e2-81e5-5fc1bce2aa21`
+> Night in the tiny apartment, frost creeping across the big window, the neon skyline outside dark. Lucius
+> shivers under a thin blanket, breath fogging, his wristband the only light. He flicks a dead electric
+> heater switch again and again: nothing. He hugs his knees. Slow push-in, blue cold color grade.
+> Sound: howling wind, rattling window, chattering teeth, no voices.
+
+**Clip B: STRUGGLE** · genre `drama` · extra ref: city `94b84c40-e610-436e-802a-3835ce3d091e`
+> Lucius scavenges an abandoned electronics store with a flashlight beam: he snaps a dead lighter
+> (no spark), rubs two plastic rods together (nothing), and burns his fingers on a sparking broken cable,
+> jerking back. He sits frustrated among the junk, then spots a cracked magnifying lens and a shiny dead
+> battery on the floor. Handheld camera, flickering emergency lights. Sound: clatter, sparking crackle, a small gasp.
+
+**Clip C: LESSON** · genre `drama`
+> Rooftop at sunrise. Lucius piles dry paper, cardboard and shredded cloth into a rusty metal drum. He
+> holds the magnifying lens so a beam of pale sunlight focuses into one tiny bright point. Smoke curls up,
+> he blows gently, and a small orange flame bursts to life. He feeds it carefully, warming his hands, the
+> firelight painting his face gold against the magenta sky. Low-angle hero shot.
+> Sound: crackling fire growing, warm hopeful synth swell.
+
+**Clip D: THINK SHOT** · genre `epic`
+> Extreme close-up of the flame dancing, reflected in Lucius' amber eyes. Slow pull-back as he sits
+> beside the glowing fire drum on the rooftop at night. Slow crane up: his single warm orange light is the
+> only fire in the entire dark, frozen megacity below. Near silence, crackling embers, a deep synth note.
+> A soft child's voice narrates: "Fire was humanity's first technology. Today it was mine."
+
+**Hidden lesson (description):** *A magnifying lens + dry tinder + direct sun = fire with no power at all. Always build fire in a metal container, away from anything that can catch.*
+
+---
+
+### EPISODE 1.4 — "The Garden on the Roof"
+*Month 2. Canned food is running out. Lesson: growing food is a promise to your future self.*
+
+**Clip A: HOOK** · genre `drama`
+> Lucius opens a kitchen cupboard: three last dented cans. He shakes one: almost empty. A wall of empty
+> cans is stacked behind him like a sculpture of everything he has eaten. He looks at his thin wrist.
+> Close-up, then a slow push-in on the last can. Sound: hollow clink, stomach growl, ticking clock, no voices.
+
+**Clip B: STRUGGLE** · genre `drama` · extra ref: city `94b84c40-e610-436e-802a-3835ce3d091e`
+> Lucius searches a ruined neon supermarket: shelves stripped, fruit rotted to dust, a rat scurrying past.
+> In a back room he finds a torn paper packet of seeds and a picture book of plants, its pages swollen with
+> water. He tries planting seeds in a cracked street planter; the next shot shows dry, dead soil, nothing growing.
+> Handheld, flickering lights. Sound: dripping water, scurrying, disappointed sigh.
+
+**Clip C: LESSON** · genre `drama`
+> Time-lapse on a skyscraper rooftop: Lucius drags old bathtubs and plastic crates into rows, fills them with
+> soil from a park, connects his rain-catcher from Episode 2 to a dripping hose, and plants seeds. Days pass in
+> fast motion, sun and rain sweeping by, and tiny green sprouts push up through the soil, glowing under the
+> neon light. He kneels and gently touches the first leaf. Sound: rhythmic time-lapse pulse, birdsong returning.
+
+**Clip D: THINK SHOT** · genre `epic`
+> Extreme macro of a single green sprout unfurling in slow motion, a water drop on its leaf reflecting the city.
+> Rack focus to Lucius smiling for the first time, sitting cross-legged in his rooftop garden. Slow aerial
+> pull-back: one small square of green on top of an endless grey and neon city. Near silence, soft wind, a deep
+> warm synth note. A soft child's voice narrates: "A seed is a promise you make to your future self."
+
+**Hidden lesson (description):** *Start with fast growers: radishes, lettuce, beans. Containers + rainwater + sun = food anywhere, even on a roof.*
+
+---
+
+### EPISODE 1.5 — "Byte Wakes Up"
+*Month 3. He finally digs out the broken drone from the gutter (seen in Ep 2). Lesson: alone isn't the same as lonely.*
+**Every clip** also uses the Byte sheet `8960d32d-5a4b-4cb9-b71c-d6cbc22cd278` as `image_references`.
+**Byte tag:** *Byte, a small salvaged hovering drone the size of a football with a scratched gunmetal shell, one
+large glowing blue eye-light, two tiny stubby arms and a dangling antenna with a cyan tip*
+
+**Clip A: HOOK** · genre `drama`
+> Rain on the rooftop garden at night. Lucius eats alone by his fire drum, talking quietly to no one, then goes silent.
+> A flash of lightning reveals Byte, dead and half-buried in a rooftop gutter, its eye dark. Lucius stares at it,
+> walks over, and pulls it free from the mud. Slow push-in on the drone's cracked, lifeless eye.
+> Sound: rain, distant thunder, his small footsteps, no dialogue.
+
+**Clip B: STRUGGLE** · genre `drama`
+> Inside the apartment at a cluttered table lit by a desk lamp running off a battery. Lucius takes Byte apart with
+> a tiny screwdriver, comparing it to a torn manual. Sparks pop; he yanks his hand back. He solders the wrong wire
+> and a puff of smoke rises. He drops his head on the table, exhausted, as the night outside the window turns to grey dawn.
+> Sound: clicking tools, sizzling sparks, frustrated sigh.
+
+**Clip C: LESSON** · genre `drama`
+> Close-up: Lucius connects his own glowing cyan wristband to Byte with a thin cable, sharing his last power.
+> The wristband dims, and Byte's eye flickers, sputters, then glows bright blue. The tiny drone wobbles up into the air,
+> tilts its head at Lucius, beeps curiously, and gently bumps his forehead. Lucius laughs in surprise.
+> Warm light floods the room. Sound: power-up hum, cheerful beeps, a child's laugh, hopeful synth.
+
+**Clip D: THINK SHOT** · genre `epic`
+> Rooftop at golden dusk. Lucius sits at the edge with his legs dangling, Byte hovering next to him, its blue eye
+> glowing. Both look out at the endless silent megacity. Slow 180-degree orbit around them, their two small lights
+> (cyan wristband, blue eye) against the vast city. Near silence, soft wind, a gentle beep from Byte. A soft child's
+> voice narrates: "Alone isn't the same as lonely."
+
+**Hidden lesson (description):** *Fixing something broken teaches you how it works. Every repair is a free engineering lesson.*
+
+---
+
+### Credit plan for 1.3 – 1.5
+| Episode | Clips | Fast mode cost |
+|---|---|---|
+| 1.2 (Clip C still owed) | 1 | 15 |
+| 1.3 Fire Without Power | 4 | 60 |
+| 1.4 The Garden on the Roof | 4 | 60 |
+| 1.5 Byte Wakes Up | 4 | 60 |
+| **Total** | **13** | **195** |
