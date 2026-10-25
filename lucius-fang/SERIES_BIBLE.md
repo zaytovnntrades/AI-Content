@@ -214,4 +214,6 @@ sand-charcoal-cloth filter is the oldest off-grid trick there is. Real survivali
 | Clip | Job ID |
 |---|---|
 | D — Think shot (raindrop + aerial, teaser) | `b938ffc5-19b2-4c52-99cd-2b95d9430056` |
-| A, B, C | not yet generated (45 credits needed) |
+| A — Hook (dry tap) | `826ad54b-d9d1-4bb8-a5ef-4ec8c4de8c64` |
+| B — Struggle (toxic canal, thunder) | `dbee07b0-5c3e-4fdb-a594-c162ce1d1ec2` |
+| C — Lesson (rooftop rain filter) | not yet generated (15 credits needed) |
