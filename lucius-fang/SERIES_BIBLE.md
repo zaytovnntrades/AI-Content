@@ -152,3 +152,12 @@ Pass these job IDs as `image_references` on every Seedance clip to keep the look
 | City wide keyframe (Ep 1 think shot) | `94b84c40-e610-436e-802a-3835ce3d091e` |
 | Byte drone sheet | `8960d32d-5a4b-4cb9-b71c-d6cbc22cd278` |
 | Apartment keyframe (Ep 1 Clip A start frame) | `650a4b64-4617-40e2-81e5-5fc1bce2aa21` |
+
+## 10. Produced clips
+### Episode 1.1 — "The Silence" (Seedance 2.0 fast, 480p, 16:9, 4 × 15 s)
+| Clip | Job ID |
+|---|---|
+| A — Hook (wakes alone) | `23786d68-7aab-4be0-b546-c4ff6a80f699` |
+| B — Struggle (empty city) | `0754b941-0791-4fc3-8537-9643944d4343` |
+| C — Lesson (wristband glows) | `ecccfc0b-2655-4356-a4a8-825d7d53390c` |
+| D — Think shot (crane reveal) | `8ca0662c-2e8a-4cf3-a958-6b92dde9241e` |
